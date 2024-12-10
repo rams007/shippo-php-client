@@ -29,7 +29,7 @@ Print a shipping label in 10 mins using our default USPS and DHL Express account
 
         {
           "require": {
-            "shippo/shippo-php": "1.*"
+            "rams007/shippo-php": "1.*"
           }
         }
     
